@@ -16,12 +16,12 @@ My main role on this project was to be the main CAD designer for the shoulder. I
 ## Images
 Inital Drawings:
 
-![Image](./img/shoulder_inital.png)
+![Image](img/shoulder_final.png)
 
 Final Result:
 
-![Image](./img/shoulder_final.png)
+![Image](img/shoulder_final.png)
 
 Poster and Skeleton:
 
-![Image](./img/IMG_5920_(1).jpg)
+![Image](img/IMG_5920_(1).jpg)
