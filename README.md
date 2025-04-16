@@ -20,7 +20,7 @@ Inital Drawings:
 
 Final Result:
 
-![Image](./img/shoulder_final/png)
+![Image](./img/shoulder_final.png)
 
 Poster and Skeleton:
 
