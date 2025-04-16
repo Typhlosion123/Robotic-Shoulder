@@ -24,4 +24,4 @@ Final Result:
 
 Poster and Skeleton:
 
-![Image](img/IMG_5920_(1).jpg)
+![Image](img/IMG_5920.png)
